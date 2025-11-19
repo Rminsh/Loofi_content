@@ -1,6 +1,7 @@
 [
   {
-    "level": "A1",
+    "id": 1,
+    "category": "A1",
     "title": "Beginner A1"
   }
 ]
