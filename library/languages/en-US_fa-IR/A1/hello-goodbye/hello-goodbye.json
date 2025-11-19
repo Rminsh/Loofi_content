@@ -1,8 +1,8 @@
 {
   "deckName": "Basic Verbs",
   "category": "A1",
-  "questionLanguage": "en",
-  "answerLanguage": "de",
+  "questionLanguage": "en-US",
+  "answerLanguage": "fa-IR",
   "color": "blue",
   "image": "basic-verbs.png",
   "cards": [
