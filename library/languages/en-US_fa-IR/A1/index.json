@@ -1,0 +1,10 @@
+[
+  {
+    "id": "hello-goodbye",
+    "title": "Hello Goodbye",
+    "cards": 16,
+    "color": "blue",
+    "image": "hello-goodbye.png",
+    "url": "https://raw.githubusercontent.com/.../languages/en-de/A1/hello-goodbye/hello-goodbye.json"
+  }
+]

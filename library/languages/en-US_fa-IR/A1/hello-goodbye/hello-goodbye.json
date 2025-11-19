@@ -1,0 +1,15 @@
+{
+  "deckName": "Basic Verbs",
+  "category": "A1",
+  "questionLanguage": "en",
+  "answerLanguage": "de",
+  "color": "blue",
+  "image": "basic-verbs.png",
+  "cards": [
+    { "front": "to eat", "back": "essen" },
+    { "front": "to drink", "back": "trinken" },
+    { "front": "to sleep", "back": "schlafen" },
+    { "front": "to read", "back": "lesen" },
+    { "front": "to write", "back": "schreiben" }
+  ]
+}
