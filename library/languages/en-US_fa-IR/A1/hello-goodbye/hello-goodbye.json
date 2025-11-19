@@ -1,15 +1,91 @@
 {
-  "deckName": "Basic Verbs",
+  "id": 1,
+  "title": "Basic Verbs",
   "category": "A1",
   "questionLanguage": "en-US",
   "answerLanguage": "fa-IR",
   "color": "blue",
   "image": "basic-verbs.png",
   "cards": [
-    { "front": "to eat", "back": "essen" },
-    { "front": "to drink", "back": "trinken" },
-    { "front": "to sleep", "back": "schlafen" },
-    { "front": "to read", "back": "lesen" },
-    { "front": "to write", "back": "schreiben" }
+    {
+      "front": "hello",
+      "back": "`həˈloʊ`\n**سلام**\nused to greet someone",
+      "more": "(interjection)\nمترادف:\nhi\nمتضاد:\ngoodbye\nمثال:\nHello, how are you?\nسلام، حالت چطوره؟"
+    },
+    {
+      "front": "goodbye",
+      "back": "`ɡʊdˈbaɪ`\n**خداحافظ**\nsaid when leaving",
+      "more": "(interjection)\nمترادف:\nbye\nمتضاد:\nhello\nمثال:\nGoodbye, see you later.\nخداحافظ، بعداً می‌بینمت."
+    },
+    {
+      "front": "hi",
+      "back": "`haɪ`\n**سلام**\nshort greeting word",
+      "more": "(interjection)\nمترادف:\nhello\nمتضاد:\ngoodbye\nمثال:\nHi, I’m Tom.\nسلام، من تام هستم."
+    },
+    {
+      "front": "bye",
+      "back": "`baɪ`\n**خدافظ**\nshort farewell word",
+      "more": "(interjection)\nمترادف:\ngoodbye\nمتضاد:\nhello\nمثال:\nBye, take care.\nخداحافظ، مراقب باش."
+    },
+    {
+      "front": "good morning",
+      "back": "`ɡʊd ˈmɔːrnɪŋ`\n**صبح‌به‌خیر**\ngreeting for morning",
+      "more": "(interjection)\nمترادف:\nmorning\nمتضاد:\ngood night\nمثال:\nGood morning, everyone.\nصبح‌به‌خیر به همه."
+    },
+    {
+      "front": "good afternoon",
+      "back": "`ɡʊd ˌæftərˈnuːn`\n**ظهر‌به‌خیر**\ngreeting for afternoon",
+      "more": "(interjection)\nمترادف:\nafternoon\nمتضاد:\ngood night\nمثال:\nGood afternoon, Sarah.\nظهر‌به‌خیر سارا."
+    },
+    {
+      "front": "good evening",
+      "back": "`ɡʊd ˈiːvnɪŋ`\n**عصر‌به‌خیر**\ngreeting for evening",
+      "more": "(interjection)\nمترادف:\nevening\nمتضاد:\ngood morning\nمثال:\nGood evening, John.\nعصر‌به‌خیر جان."
+    },
+    {
+      "front": "good night",
+      "back": "`ɡʊd naɪt`\n**شب‌به‌خیر**\nsaid before sleeping",
+      "more": "(interjection)\nمترادف:\nnight\nمتضاد:\ngood morning\nمثال:\nGood night, kids.\nشب‌به‌خیر بچه‌ها."
+    },
+    {
+      "front": "thank you",
+      "back": "`ˈθæŋk juː`\n**متشکرم**\nshows gratitude politely",
+      "more": "(interjection)\nمترادف:\nthanks\nمتضاد:\n—\nمثال:\nThank you for helping.\nمرسی از کمکت."
+    },
+    {
+      "front": "thanks",
+      "back": "`θæŋks`\n**مرسی**\nshort thank you word",
+      "more": "(interjection)\nمترادف:\nthank you\nمتضاد:\n—\nمثال:\nThanks for the gift.\nمرسی برای هدیه."
+    },
+    {
+      "front": "please",
+      "back": "`pliːz`\n**لطفاً**\nused to ask politely",
+      "more": "(adverb)\nمترادف:\nkindly\nمتضاد:\n—\nمثال:\nPlease open the door.\nلطفاً در را باز کن."
+    },
+    {
+      "front": "OK",
+      "back": "`oʊˈkeɪ`\n**باشه**\nmeans fine or agreed",
+      "more": "(interjection)\nمترادف:\nfine\nمتضاد:\nno\nمثال:\nOK, I’ll do it.\nباشه، انجامش می‌دم."
+    },
+    {
+      "front": "yes",
+      "back": "`jɛs`\n**بله**\nshows agreement",
+      "more": "(interjection)\nمترادف:\nok\nمتضاد:\nno\nمثال:\nYes, I understand.\nبله، فهمیدم."
+    },
+    {
+      "front": "no",
+      "back": "`noʊ`\n**نه**\nshows refusal",
+      "more": "(interjection)\nمترادف:\nnope\nمتضاد:\nyes\nمثال:\nNo, not today.\nنه، امروز نه."
+    },
+    {
+      "front": "sorry",
+      "back": "`ˈsɑːri`\n**ببخشید**\nfeeling regret or apology",
+      "more": "(interjection)\nمترادف:\napologies\nمتضاد:\n—\nمثال:\nSorry for being late.\nببخشید که دیر کردم."
+    },
+    {
+      "front": "welcome",
+      "back": "`ˈwɛlkəm`\n**خوش‌آمدید**\ngreeting on arrival",
+      "more": "(interjection)\nمترادف:\n—\nمتضاد:\ngoodbye\nمثال:\nWelcome to our home.\nخوش‌آمدید به خانهٔ ما."
+    }
   ]
 }

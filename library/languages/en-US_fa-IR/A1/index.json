@@ -2,9 +2,8 @@
   {
     "id": "hello-goodbye",
     "title": "Hello Goodbye",
-    "cards": 16,
+    "cardsCount": 16,
     "color": "blue",
-    "image": "hello-goodbye.png",
-    "url": "https://raw.githubusercontent.com/Rminsh/Loofi_content/refs/heads/main/library/languages/en-US_fa-IR/A1/hello-goodbye/hello-goodbye.json"
+    "image": "hello-goodbye.png"
   }
 ]
