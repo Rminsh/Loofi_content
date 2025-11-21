@@ -1,6 +1,8 @@
 [
   {
-    "id": "en-US_fa-IR",
+    "id": 1,
     "title": "English → Farsi"
+    "firstLanguage": "en-US"
+    "secondLanguage": "fa-IR"
   }
 ]
