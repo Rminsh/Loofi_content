@@ -1,0 +1,753 @@
+{
+    "languages": [
+        "en-US_fa-IR",
+        "en-US_es",
+        "en-US_tr"
+    ],
+    "decks": [
+        {
+            "id": 1,
+            "title": "Basic Verbs",
+            "level": "A1",
+            "topic": "Daily life",
+            "languageType": "en-US_fa-IR",
+            "questionLanguage": "en-US",
+            "answerLanguage": "fa-IR",
+            "color": "blossom",
+            "image": "hand.png",
+            "cards": [
+                {
+                    "front": "hello",
+                    "back": "`həˈloʊ`\n**سلام**\nused to greet someone",
+                    "more": "(interjection)\nمترادف:\nhi\nمتضاد:\ngoodbye\nمثال:\nHello, how are you?\nسلام، حالت چطوره؟"
+                },
+                {
+                    "front": "goodbye",
+                    "back": "`ɡʊdˈbaɪ`\n**خداحافظ**\nsaid when leaving",
+                    "more": "(interjection)\nمترادف:\nbye\nمتضاد:\nhello\nمثال:\nGoodbye, see you later.\nخداحافظ، بعداً می‌بینمت."
+                },
+                {
+                    "front": "hi",
+                    "back": "`haɪ`\n**سلام**\nshort greeting word",
+                    "more": "(interjection)\nمترادف:\nhello\nمتضاد:\ngoodbye\nمثال:\nHi, I'm Tom.\nسلام، من تام هستم."
+                },
+                {
+                    "front": "bye",
+                    "back": "`baɪ`\n**خدافظ**\nshort farewell word",
+                    "more": "(interjection)\nمترادف:\ngoodbye\nمتضاد:\nhello\nمثال:\nBye, take care.\nخداحافظ، مراقب باش."
+                },
+                {
+                    "front": "good morning",
+                    "back": "`ɡʊd ˈmɔːrnɪŋ`\n**صبح‌به‌خیر**\ngreeting for morning",
+                    "more": "(interjection)\nمترادف:\nmorning\nمتضاد:\ngood night\nمثال:\nGood morning, everyone.\nصبح‌به‌خیر به همه."
+                },
+                {
+                    "front": "good afternoon",
+                    "back": "`ɡʊd ˌæftərˈnuːn`\n**ظهر‌به‌خیر**\ngreeting for afternoon",
+                    "more": "(interjection)\nمترادف:\nafternoon\nمتضاد:\ngood night\nمثال:\nGood afternoon, Sarah.\nظهر‌به‌خیر سارا."
+                },
+                {
+                    "front": "good evening",
+                    "back": "`ɡʊd ˈiːvnɪŋ`\n**عصر‌به‌خیر**\ngreeting for evening",
+                    "more": "(interjection)\nمترادف:\nevening\nمتضاد:\ngood morning\nمثال:\nGood evening, John.\nعصر‌به‌خیر جان."
+                },
+                {
+                    "front": "good night",
+                    "back": "`ɡʊd naɪt`\n**شب‌به‌خیر**\nsaid before sleeping",
+                    "more": "(interjection)\nمترادف:\nnight\nمتضاد:\ngood morning\nمثال:\nGood night, kids.\nشب‌به‌خیر بچه‌ها."
+                },
+                {
+                    "front": "thank you",
+                    "back": "`ˈθæŋk juː`\n**متشکرم**\nshows gratitude politely",
+                    "more": "(interjection)\nمترادف:\nthanks\nمتضاد:\n—\nمثال:\nThank you for helping.\nمرسی از کمکت."
+                },
+                {
+                    "front": "thanks",
+                    "back": "`θæŋks`\n**مرسی**\nshort thank you word",
+                    "more": "(interjection)\nمترادف:\nthank you\nمتضاد:\n—\nمثال:\nThanks for the gift.\nمرسی برای هدیه."
+                },
+                {
+                    "front": "please",
+                    "back": "`pliːz`\n**لطفاً**\nused to ask politely",
+                    "more": "(adverb)\nمترادف:\nkindly\nمتضاد:\n—\nمثال:\nPlease open the door.\nلطفاً در را باز کن."
+                },
+                {
+                    "front": "OK",
+                    "back": "`oʊˈkeɪ`\n**باشه**\nmeans fine or agreed",
+                    "more": "(interjection)\nمترادف:\nfine\nمتضاد:\nno\nمثال:\nOK, I'll do it.\nباشه، انجامش می‌دم."
+                },
+                {
+                    "front": "yes",
+                    "back": "`jɛs`\n**بله**\nshows agreement",
+                    "more": "(interjection)\nمترادف:\nok\nمتضاد:\nno\nمثال:\nYes, I understand.\nبله، فهمیدم."
+                },
+                {
+                    "front": "no",
+                    "back": "`noʊ`\n**نه**\nshows refusal",
+                    "more": "(interjection)\nمترادف:\nnope\nمتضاد:\nyes\nمثال:\nNo, not today.\nنه، امروز نه."
+                },
+                {
+                    "front": "sorry",
+                    "back": "`ˈsɑːri`\n**ببخشید**\nfeeling regret or apology",
+                    "more": "(interjection)\nمترادف:\napologies\nمتضاد:\n—\nمثال:\nSorry for being late.\nببخشید که دیر کردم."
+                },
+                {
+                    "front": "welcome",
+                    "back": "`ˈwɛlkəm`\n**خوش‌آمدید**\ngreeting on arrival",
+                    "more": "(interjection)\nمترادف:\n—\nمتضاد:\ngoodbye\nمثال:\nWelcome to our home.\nخوش‌آمدید به خانهٔ ما."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Essential Nouns",
+            "level": "A1",
+            "topic": "Daily life",
+            "languageType": "en-US_fa-IR",
+            "questionLanguage": "en-US",
+            "answerLanguage": "fa-IR",
+            "color": "lemon",
+            "image": "people.png",
+            "cards": [
+                {
+                    "front": "water",
+                    "back": "`ˈwɔːtər`\n**آب**\nliquid for drinking",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nI drink water every day.\nمن هر روز آب می‌نوشم."
+                },
+                {
+                    "front": "food",
+                    "back": "`fuːd`\n**غذا**\nwhat we eat",
+                    "more": "(noun)\nمترادف:\nmeal\nمتضاد:\n—\nمثال:\nThe food is delicious.\nغذا خوشمزه است."
+                },
+                {
+                    "front": "house",
+                    "back": "`haʊs`\n**خانه**\nplace where people live",
+                    "more": "(noun)\nمترادف:\nhome\nمتضاد:\n—\nمثال:\nMy house is big.\nخانه‌ام بزرگ است."
+                },
+                {
+                    "front": "book",
+                    "back": "`bʊk`\n**کتاب**\npages with text",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nI read a book.\nمن کتاب می‌خوانم."
+                },
+                {
+                    "front": "car",
+                    "back": "`kɑːr`\n**ماشین**\nvehicle with four wheels",
+                    "more": "(noun)\nمترادف:\nautomobile\nمتضاد:\n—\nمثال:\nHe has a new car.\nاو ماشین جدید دارد."
+                },
+                {
+                    "front": "phone",
+                    "back": "`foʊn`\n**تلفن**\ndevice for calling",
+                    "more": "(noun)\nمترادف:\ntelephone\nمتضاد:\n—\nمثال:\nMy phone is ringing.\nتلفنم زنگ می‌زند."
+                },
+                {
+                    "front": "money",
+                    "back": "`ˈmʌni`\n**پول**\nused to buy things",
+                    "more": "(noun)\nمترادف:\ncash\nمتضاد:\n—\nمثال:\nI need more money.\nپول بیشتری نیاز دارم."
+                },
+                {
+                    "front": "time",
+                    "back": "`taɪm`\n**زمان**\nmeasured in hours",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nWhat time is it?\nساعت چند است؟"
+                },
+                {
+                    "front": "day",
+                    "back": "`deɪ`\n**روز**\n24 hours period",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\nnight\nمثال:\nToday is a good day.\nامروز روز خوبی است."
+                },
+                {
+                    "front": "night",
+                    "back": "`naɪt`\n**شب**\ndark part of day",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\nday\nمثال:\nThe night is quiet.\nشب ساکت است."
+                },
+                {
+                    "front": "friend",
+                    "back": "`frɛnd`\n**دوست**\nperson you like",
+                    "more": "(noun)\nمترادف:\npal\nمتضاد:\nenemy\nمثال:\nShe is my friend.\nاو دوست من است."
+                },
+                {
+                    "front": "family",
+                    "back": "`ˈfæməli`\n**خانواده**\nparents and children",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nI love my family.\nخانواده‌ام را دوست دارم."
+                },
+                {
+                    "front": "name",
+                    "back": "`neɪm`\n**نام**\nwhat you are called",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nMy name is Ali.\nنام من علی است."
+                },
+                {
+                    "front": "work",
+                    "back": "`wɜːrk`\n**کار**\njob or activity",
+                    "more": "(noun)\nمترادف:\njob\nمتضاد:\nrest\nمثال:\nI go to work.\nمن به کار می‌روم."
+                },
+                {
+                    "front": "school",
+                    "back": "`skuːl`\n**مدرسه**\nplace for learning",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nChildren go to school.\nبچه‌ها به مدرسه می‌روند."
+                },
+                {
+                    "front": "city",
+                    "back": "`ˈsɪti`\n**شهر**\nlarge town",
+                    "more": "(noun)\nمترادف:\ntown\nمتضاد:\nvillage\nمثال:\nTehran is a big city.\nتهران شهر بزرگی است."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Business Vocabulary",
+            "level": "B2",
+            "topic": "Business",
+            "languageType": "en-US_fa-IR",
+            "questionLanguage": "en-US",
+            "answerLanguage": "fa-IR",
+            "color": "peach",
+            "image": "bag.png",
+            "cards": [
+                {
+                    "front": "negotiate",
+                    "back": "`nɪˈɡoʊʃieɪt`\n**مذاکره کردن**\ndiscuss to reach agreement",
+                    "more": "(verb)\nمترادف:\nbargain\nمتضاد:\n—\nمثال:\nWe need to negotiate the contract.\nباید روی قرارداد مذاکره کنیم."
+                },
+                {
+                    "front": "deadline",
+                    "back": "`ˈdɛdlaɪn`\n**مهلت**\nfinal date for completion",
+                    "more": "(noun)\nمترادف:\ndue date\nمتضاد:\n—\nمثال:\nThe deadline is Friday.\nمهلت جمعه است."
+                },
+                {
+                    "front": "budget",
+                    "back": "`ˈbʌdʒɪt`\n**بودجه**\nplanned spending amount",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nWe exceeded the budget.\nما از بودجه فراتر رفتیم."
+                },
+                {
+                    "front": "revenue",
+                    "back": "`ˈrɛvənuː`\n**درآمد**\nmoney earned by business",
+                    "more": "(noun)\nمترادف:\nincome\nمتضاد:\nexpense\nمثال:\nRevenue increased this quarter.\nدرآمد این فصل افزایش یافت."
+                },
+                {
+                    "front": "investment",
+                    "back": "`ɪnˈvɛstmənt`\n**سرمایه‌گذاری**\nmoney put into business",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nThis is a good investment.\nاین سرمایه‌گذاری خوبی است."
+                },
+                {
+                    "front": "profit",
+                    "back": "`ˈprɒfɪt`\n**سود**\nmoney gained after costs",
+                    "more": "(noun)\nمترادف:\ngain\nمتضاد:\nloss\nمثال:\nThe company made a profit.\nشرکت سود کرد."
+                },
+                {
+                    "front": "strategy",
+                    "back": "`ˈstrætədʒi`\n**استراتژی**\nlong-term plan",
+                    "more": "(noun)\nمترادف:\nplan\nمتضاد:\n—\nمثال:\nWe need a new strategy.\nما به استراتژی جدید نیاز داریم."
+                },
+                {
+                    "front": "competitor",
+                    "back": "`kəmˈpɛtɪtər`\n**رقیب**\nrival company",
+                    "more": "(noun)\nمترادف:\nrival\nمتضاد:\npartner\nمثال:\nOur competitor lowered prices.\nرقیب ما قیمت‌ها را کاهش داد."
+                },
+                {
+                    "front": "stakeholder",
+                    "back": "`ˈsteɪkˌhoʊldər`\n**ذی‌نفع**\nperson with interest in company",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nAll stakeholders attended.\nهمه ذی‌نفعان حضور داشتند."
+                },
+                {
+                    "front": "merger",
+                    "back": "`ˈmɜːrdʒər`\n**ادغام**\ncombining two companies",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\nsplit\nمثال:\nThe merger was approved.\nادغام تأیید شد."
+                },
+                {
+                    "front": "acquisition",
+                    "back": "`ˌækwɪˈzɪʃən`\n**تملک**\nbuying another company",
+                    "more": "(noun)\nمترادف:\npurchase\nمتضاد:\nsale\nمثال:\nThe acquisition cost millions.\nتملک میلیون‌ها هزینه داشت."
+                },
+                {
+                    "front": "quarterly",
+                    "back": "`ˈkwɔːrtərli`\n**فصلی**\nevery three months",
+                    "more": "(adjective)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nWe have quarterly reports.\nگزارش‌های فصلی داریم."
+                },
+                {
+                    "front": "outsource",
+                    "back": "`ˈaʊtˌsɔːrs`\n**برون‌سپاری کردن**\nhire external company",
+                    "more": "(verb)\nمترادف:\n—\nمتضاد:\ninsource\nمثال:\nWe outsource IT services.\nخدمات IT را برون‌سپاری می‌کنیم."
+                },
+                {
+                    "front": "benchmark",
+                    "back": "`ˈbɛntʃˌmɑːrk`\n**معیار**\nstandard for comparison",
+                    "more": "(noun)\nمترادف:\nstandard\nمتضاد:\n—\nمثال:\nSet a benchmark for quality.\nمعیاری برای کیفیت تعیین کنید."
+                },
+                {
+                    "front": "scalable",
+                    "back": "`ˈskeɪləbəl`\n**مقیاس‌پذیر**\nable to grow easily",
+                    "more": "(adjective)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nWe need a scalable solution.\nما به راه‌حل مقیاس‌پذیر نیاز داریم."
+                },
+                {
+                    "front": "leverage",
+                    "back": "`ˈlɛvərɪdʒ`\n**اهرم / بهره‌برداری**\nuse advantage strategically",
+                    "more": "(verb/noun)\nمترادف:\nutilize\nمتضاد:\n—\nمثال:\nLeverage your network.\nاز شبکه خود بهره‌برداری کنید."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Academic Writing",
+            "level": "B2",
+            "topic": "Business",
+            "languageType": "en-US_fa-IR",
+            "questionLanguage": "en-US",
+            "answerLanguage": "fa-IR",
+            "color": "sky",
+            "image": "mac.png",
+            "cards": [
+                {
+                    "front": "hypothesis",
+                    "back": "`haɪˈpɒθəsɪs`\n**فرضیه**\nproposed explanation to test",
+                    "more": "(noun)\nمترادف:\ntheory\nمتضاد:\nfact\nمثال:\nThe hypothesis was proven correct.\nفرضیه درست ثابت شد."
+                },
+                {
+                    "front": "methodology",
+                    "back": "`ˌmɛθəˈdɒlədʒi`\n**روش‌شناسی**\nsystem of methods used",
+                    "more": "(noun)\nمترادف:\napproach\nمتضاد:\n—\nمثال:\nExplain your methodology.\nروش‌شناسی خود را توضیح دهید."
+                },
+                {
+                    "front": "abstract",
+                    "back": "`ˈæbstrækt`\n**چکیده**\nbrief summary of paper",
+                    "more": "(noun)\nمترادف:\nsummary\nمتضاد:\n—\nمثال:\nRead the abstract first.\nاول چکیده را بخوانید."
+                },
+                {
+                    "front": "cite",
+                    "back": "`saɪt`\n**استناد کردن**\nreference a source",
+                    "more": "(verb)\nمترادف:\nreference\nمتضاد:\n—\nمثال:\nCite your sources properly.\nمنابع خود را درست استناد کنید."
+                },
+                {
+                    "front": "peer review",
+                    "back": "`pɪr rɪˈvjuː`\n**داوری همتا**\nevaluation by experts",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nThe paper passed peer review.\nمقاله از داوری همتا گذشت."
+                },
+                {
+                    "front": "dissertation",
+                    "back": "`ˌdɪsərˈteɪʃən`\n**پایان‌نامه**\nlong academic document",
+                    "more": "(noun)\nمترادف:\nthesis\nمتضاد:\n—\nمثال:\nHe defended his dissertation.\nاو از پایان‌نامه‌اش دفاع کرد."
+                },
+                {
+                    "front": "empirical",
+                    "back": "`ɪmˈpɪrɪkəl`\n**تجربی**\nbased on observation",
+                    "more": "(adjective)\nمترادف:\nobservational\nمتضاد:\ntheoretical\nمثال:\nWe need empirical evidence.\nما به شواهد تجربی نیاز داریم."
+                },
+                {
+                    "front": "qualitative",
+                    "back": "`ˈkwɒlɪtətɪv`\n**کیفی**\nbased on quality not numbers",
+                    "more": "(adjective)\nمترادف:\n—\nمتضاد:\nquantitative\nمثال:\nThis is qualitative research.\nاین تحقیق کیفی است."
+                },
+                {
+                    "front": "quantitative",
+                    "back": "`ˈkwɒntɪtətɪv`\n**کمّی**\nbased on numbers",
+                    "more": "(adjective)\nمترادف:\nnumerical\nمتضاد:\nqualitative\nمثال:\nUse quantitative methods.\nاز روش‌های کمّی استفاده کنید."
+                },
+                {
+                    "front": "correlation",
+                    "back": "`ˌkɒrəˈleɪʃən`\n**همبستگی**\nrelationship between variables",
+                    "more": "(noun)\nمترادف:\nrelation\nمتضاد:\n—\nمثال:\nThere is a strong correlation.\nهمبستگی قوی وجود دارد."
+                },
+                {
+                    "front": "variable",
+                    "back": "`ˈvɛəriəbəl`\n**متغیر**\nfactor that can change",
+                    "more": "(noun)\nمترادف:\nfactor\nمتضاد:\nconstant\nمثال:\nIdentify the variables.\nمتغیرها را شناسایی کنید."
+                },
+                {
+                    "front": "plagiarism",
+                    "back": "`ˈpleɪdʒərɪzəm`\n**سرقت علمی**\ncopying without credit",
+                    "more": "(noun)\nمترادف:\n—\nمتضاد:\n—\nمثال:\nPlagiarism is prohibited.\nسرقت علمی ممنوع است."
+                },
+                {
+                    "front": "bibliography",
+                    "back": "`ˌbɪbliˈɒɡrəfi`\n**کتاب‌شناسی**\nlist of sources used",
+                    "more": "(noun)\nمترادف:\nreferences\nمتضاد:\n—\nمثال:\nCheck the bibliography.\nکتاب‌شناسی را بررسی کنید."
+                },
+                {
+                    "front": "inference",
+                    "back": "`ˈɪnfərəns`\n**استنتاج**\nconclusion from evidence",
+                    "more": "(noun)\nمترادف:\ndeduction\nمتضاد:\n—\nمثال:\nDraw an inference from data.\nاز داده‌ها استنتاج کنید."
+                },
+                {
+                    "front": "validity",
+                    "back": "`vəˈlɪdəti`\n**اعتبار**\nhow accurate results are",
+                    "more": "(noun)\nمترادف:\naccuracy\nمتضاد:\n—\nمثال:\nQuestion the validity.\nاعتبار را زیر سؤال ببرید."
+                },
+                {
+                    "front": "synthesize",
+                    "back": "`ˈsɪnθəsaɪz`\n**ترکیب کردن**\ncombine ideas together",
+                    "more": "(verb)\nمترادف:\ncombine\nمتضاد:\nanalyze\nمثال:\nSynthesize the findings.\nیافته‌ها را ترکیب کنید."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Saludos y Cortesía",
+            "level": "A1",
+            "topic": "Daily life",
+            "languageType": "en-US_es",
+            "questionLanguage": "en-US",
+            "answerLanguage": "es",
+            "color": "sand",
+            "image": "hand.png",
+            "cards": [
+                {
+                    "front": "hello",
+                    "back": "`həˈloʊ`\n**hola**\nused to greet someone",
+                    "more": "(interjection)\nSinónimo:\nbuenas\nAntónimo:\nadiós\nEjemplo:\nHello, how are you?\nHola, ¿cómo estás?"
+                },
+                {
+                    "front": "goodbye",
+                    "back": "`ɡʊdˈbaɪ`\n**adiós**\nsaid when leaving",
+                    "more": "(interjection)\nSinónimo:\nchao\nAntónimo:\nhola\nEjemplo:\nGoodbye, see you later.\nAdiós, hasta luego."
+                },
+                {
+                    "front": "good morning",
+                    "back": "`ɡʊd ˈmɔːrnɪŋ`\n**buenos días**\ngreeting for morning",
+                    "more": "(interjection)\nSinónimo:\n—\nAntónimo:\nbuenas noches\nEjemplo:\nGood morning, everyone.\nBuenos días a todos."
+                },
+                {
+                    "front": "good afternoon",
+                    "back": "`ɡʊd ˌæftərˈnuːn`\n**buenas tardes**\ngreeting for afternoon",
+                    "more": "(interjection)\nSinónimo:\n—\nAntónimo:\nbuenas noches\nEjemplo:\nGood afternoon, sir.\nBuenas tardes, señor."
+                },
+                {
+                    "front": "good night",
+                    "back": "`ɡʊd naɪt`\n**buenas noches**\nsaid before sleeping",
+                    "more": "(interjection)\nSinónimo:\n—\nAntónimo:\nbuenos días\nEjemplo:\nGood night, sweet dreams.\nBuenas noches, dulces sueños."
+                },
+                {
+                    "front": "thank you",
+                    "back": "`ˈθæŋk juː`\n**gracias**\nshows gratitude",
+                    "more": "(interjection)\nSinónimo:\n—\nAntónimo:\n—\nEjemplo:\nThank you very much.\nMuchas gracias."
+                },
+                {
+                    "front": "please",
+                    "back": "`pliːz`\n**por favor**\nused to ask politely",
+                    "more": "(adverb)\nSinónimo:\n—\nAntónimo:\n—\nEjemplo:\nPlease help me.\nPor favor, ayúdame."
+                },
+                {
+                    "front": "you're welcome",
+                    "back": "`jʊər ˈwɛlkəm`\n**de nada**\nresponse to thanks",
+                    "more": "(interjection)\nSinónimo:\nno hay de qué\nAntónimo:\n—\nEjemplo:\nYou're welcome!\n¡De nada!"
+                },
+                {
+                    "front": "excuse me",
+                    "back": "`ɪkˈskjuːz miː`\n**disculpe**\npolite interruption",
+                    "more": "(interjection)\nSinónimo:\nperdón\nAntónimo:\n—\nEjemplo:\nExcuse me, where is the bank?\nDisculpe, ¿dónde está el banco?"
+                },
+                {
+                    "front": "sorry",
+                    "back": "`ˈsɑːri`\n**lo siento**\nfeeling regret",
+                    "more": "(interjection)\nSinónimo:\nperdón\nAntónimo:\n—\nEjemplo:\nSorry for the delay.\nLo siento por el retraso."
+                },
+                {
+                    "front": "yes",
+                    "back": "`jɛs`\n**sí**\nshows agreement",
+                    "more": "(interjection)\nSinónimo:\n—\nAntónimo:\nno\nEjemplo:\nYes, I agree.\nSí, estoy de acuerdo."
+                },
+                {
+                    "front": "no",
+                    "back": "`noʊ`\n**no**\nshows refusal",
+                    "more": "(interjection)\nSinónimo:\n—\nAntónimo:\nsí\nEjemplo:\nNo, thank you.\nNo, gracias."
+                },
+                {
+                    "front": "how are you",
+                    "back": "`haʊ ɑːr juː`\n**¿cómo estás?**\nasking about wellbeing",
+                    "more": "(phrase)\nSinónimo:\n¿qué tal?\nAntónimo:\n—\nEjemplo:\nHow are you today?\n¿Cómo estás hoy?"
+                },
+                {
+                    "front": "nice to meet you",
+                    "back": "`naɪs tə miːt juː`\n**mucho gusto**\ngreeting when introduced",
+                    "more": "(phrase)\nSinónimo:\nencantado\nAntónimo:\n—\nEjemplo:\nNice to meet you, Maria.\nMucho gusto, María."
+                },
+                {
+                    "front": "see you later",
+                    "back": "`siː juː ˈleɪtər`\n**hasta luego**\ninformal goodbye",
+                    "more": "(phrase)\nSinónimo:\nnos vemos\nAntónimo:\n—\nEjemplo:\nSee you later, friend.\nHasta luego, amigo."
+                },
+                {
+                    "front": "have a nice day",
+                    "back": "`hæv ə naɪs deɪ`\n**que tengas buen día**\nwishing well",
+                    "more": "(phrase)\nSinónimo:\n—\nAntónimo:\n—\nEjemplo:\nHave a nice day!\n¡Que tengas buen día!"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Viajes y Turismo",
+            "level": "B1",
+            "topic": "Travel",
+            "languageType": "en-US_es",
+            "questionLanguage": "en-US",
+            "answerLanguage": "es",
+            "color": "mint",
+            "image": "history.png",
+            "cards": [
+                {
+                    "front": "airport",
+                    "back": "`ˈɛərˌpɔːrt`\n**aeropuerto**\nplace for planes",
+                    "more": "(noun)\nSinónimo:\n—\nAntónimo:\n—\nEjemplo:\nThe airport is far.\nEl aeropuerto está lejos."
+                },
+                {
+                    "front": "passport",
+                    "back": "`ˈpæsˌpɔːrt`\n**pasaporte**\ntravel document",
+                    "more": "(noun)\nSinónimo:\n—\nAntónimo:\n—\nEjemplo:\nShow your passport.\nMuestre su pasaporte."
+                },
+                {
+                    "front": "luggage",
+                    "back": "`ˈlʌɡɪdʒ`\n**equipaje**\nbags for travel",
+                    "more": "(noun)\nSinónimo:\nmaletas\nAntónimo:\n—\nEjemplo:\nMy luggage is heavy.\nMi equipaje está pesado."
+                },
+                {
+                    "front": "reservation",
+                    "back": "`ˌrɛzərˈveɪʃən`\n**reservación**\nbooking in advance",
+                    "more": "(noun)\nSinónimo:\nreserva\nAntónimo:\n—\nEjemplo:\nI have a reservation.\nTengo una reservación."
+                },
+                {
+                    "front": "flight",
+                    "back": "`flaɪt`\n**vuelo**\nair travel",
+                    "more": "(noun)\nSinónimo:\n—\nAntónimo:\n—\nEjemplo:\nThe flight is delayed.\nEl vuelo está retrasado."
+                },
+                {
+                    "front": "boarding pass",
+                    "back": "`ˈbɔːrdɪŋ pæs`\n**tarjeta de embarque**\nticket to board plane",
+                    "more": "(noun)\nSinónimo:\npase de abordar\nAntónimo:\n—\nEjemplo:\nPrint your boarding pass.\nImprima su tarjeta de embarque."
+                },
+                {
+                    "front": "departure",
+                    "back": "`dɪˈpɑːrtʃər`\n**salida**\nleaving time",
+                    "more": "(noun)\nSinónimo:\n—\nAntónimo:\nllegada\nEjemplo:\nDeparture is at 9 AM.\nLa salida es a las 9."
+                },
+                {
+                    "front": "arrival",
+                    "back": "`əˈraɪvəl`\n**llegada**\ncoming time",
+                    "more": "(noun)\nSinónimo:\n—\nAntónimo:\nsalida\nEjemplo:\nCheck the arrival time.\nRevise la hora de llegada."
+                },
+                {
+                    "front": "hotel",
+                    "back": "`hoʊˈtɛl`\n**hotel**\nplace to stay",
+                    "more": "(noun)\nSinónimo:\nhostal\nAntónimo:\n—\nEjemplo:\nThe hotel is nice.\nEl hotel es bonito."
+                },
+                {
+                    "front": "room",
+                    "back": "`ruːm`\n**habitación**\nspace in hotel",
+                    "more": "(noun)\nSinónimo:\ncuarto\nAntónimo:\n—\nEjemplo:\nI need a double room.\nNecesito una habitación doble."
+                },
+                {
+                    "front": "tourist",
+                    "back": "`ˈtʊrɪst`\n**turista**\nperson traveling",
+                    "more": "(noun)\nSinónimo:\nviajero\nAntónimo:\nlocal\nEjemplo:\nMany tourists visit here.\nMuchos turistas visitan aquí."
+                },
+                {
+                    "front": "currency",
+                    "back": "`ˈkɜːrənsi`\n**moneda**\nmoney of a country",
+                    "more": "(noun)\nSinónimo:\ndivisa\nAntónimo:\n—\nEjemplo:\nWhat currency do they use?\n¿Qué moneda usan?"
+                },
+                {
+                    "front": "exchange rate",
+                    "back": "`ɪksˈtʃeɪndʒ reɪt`\n**tipo de cambio**\nvalue between currencies",
+                    "more": "(noun)\nSinónimo:\ntasa de cambio\nAntónimo:\n—\nEjemplo:\nCheck the exchange rate.\nRevise el tipo de cambio."
+                },
+                {
+                    "front": "customs",
+                    "back": "`ˈkʌstəmz`\n**aduana**\nborder control",
+                    "more": "(noun)\nSinónimo:\n—\nAntónimo:\n—\nEjemplo:\nGo through customs.\nPase por la aduana."
+                },
+                {
+                    "front": "itinerary",
+                    "back": "`aɪˈtɪnəreri`\n**itinerario**\ntravel plan",
+                    "more": "(noun)\nSinónimo:\nplan\nAntónimo:\n—\nEjemplo:\nCheck your itinerary.\nRevise su itinerario."
+                },
+                {
+                    "front": "souvenir",
+                    "back": "`ˌsuːvəˈnɪr`\n**recuerdo**\nitem from trip",
+                    "more": "(noun)\nSinónimo:\n—\nAntónimo:\n—\nEjemplo:\nI bought a souvenir.\nCompré un recuerdo."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Temel Selamlaşma",
+            "level": "A1",
+            "topic": "Daily life",
+            "languageType": "en-US_tr",
+            "questionLanguage": "en-US",
+            "answerLanguage": "tr",
+            "color": "lavender",
+            "image": "hand.png",
+            "cards": [
+                {
+                    "front": "hello",
+                    "back": "`həˈloʊ`\n**merhaba**\nused to greet someone",
+                    "more": "(interjection)\nEş anlamlı:\nselam\nZıt anlamlı:\nhoşça kal\nÖrnek:\nHello, how are you?\nMerhaba, nasılsın?"
+                },
+                {
+                    "front": "goodbye",
+                    "back": "`ɡʊdˈbaɪ`\n**hoşça kal**\nsaid when leaving",
+                    "more": "(interjection)\nEş anlamlı:\ngüle güle\nZıt anlamlı:\nmerhaba\nÖrnek:\nGoodbye, see you.\nHoşça kal, görüşürüz."
+                },
+                {
+                    "front": "good morning",
+                    "back": "`ɡʊd ˈmɔːrnɪŋ`\n**günaydın**\ngreeting for morning",
+                    "more": "(interjection)\nEş anlamlı:\n—\nZıt anlamlı:\niyi geceler\nÖrnek:\nGood morning, everyone.\nGünaydın, herkese."
+                },
+                {
+                    "front": "good evening",
+                    "back": "`ɡʊd ˈiːvnɪŋ`\n**iyi akşamlar**\ngreeting for evening",
+                    "more": "(interjection)\nEş anlamlı:\n—\nZıt anlamlı:\ngünaydın\nÖrnek:\nGood evening, sir.\nİyi akşamlar, efendim."
+                },
+                {
+                    "front": "good night",
+                    "back": "`ɡʊd naɪt`\n**iyi geceler**\nsaid before sleeping",
+                    "more": "(interjection)\nEş anlamlı:\n—\nZıt anlamlı:\ngünaydın\nÖrnek:\nGood night, sleep well.\nİyi geceler, iyi uykular."
+                },
+                {
+                    "front": "thank you",
+                    "back": "`ˈθæŋk juː`\n**teşekkür ederim**\nshows gratitude",
+                    "more": "(interjection)\nEş anlamlı:\nsağ ol\nZıt anlamlı:\n—\nÖrnek:\nThank you very much.\nÇok teşekkür ederim."
+                },
+                {
+                    "front": "please",
+                    "back": "`pliːz`\n**lütfen**\nused to ask politely",
+                    "more": "(adverb)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nPlease sit down.\nLütfen oturun."
+                },
+                {
+                    "front": "you're welcome",
+                    "back": "`jʊər ˈwɛlkəm`\n**rica ederim**\nresponse to thanks",
+                    "more": "(interjection)\nEş anlamlı:\nbir şey değil\nZıt anlamlı:\n—\nÖrnek:\nYou're welcome!\nRica ederim!"
+                },
+                {
+                    "front": "excuse me",
+                    "back": "`ɪkˈskjuːz miː`\n**affedersiniz**\npolite interruption",
+                    "more": "(interjection)\nEş anlamlı:\npardon\nZıt anlamlı:\n—\nÖrnek:\nExcuse me, where is it?\nAffedersiniz, nerede?"
+                },
+                {
+                    "front": "sorry",
+                    "back": "`ˈsɑːri`\n**özür dilerim**\nfeeling regret",
+                    "more": "(interjection)\nEş anlamlı:\npardon\nZıt anlamlı:\n—\nÖrnek:\nSorry for being late.\nGeç kaldığım için özür dilerim."
+                },
+                {
+                    "front": "yes",
+                    "back": "`jɛs`\n**evet**\nshows agreement",
+                    "more": "(interjection)\nEş anlamlı:\n—\nZıt anlamlı:\nhayır\nÖrnek:\nYes, I understand.\nEvet, anlıyorum."
+                },
+                {
+                    "front": "no",
+                    "back": "`noʊ`\n**hayır**\nshows refusal",
+                    "more": "(interjection)\nEş anlamlı:\nyok\nZıt anlamlı:\nevet\nÖrnek:\nNo, not today.\nHayır, bugün değil."
+                },
+                {
+                    "front": "how are you",
+                    "back": "`haʊ ɑːr juː`\n**nasılsın**\nasking about wellbeing",
+                    "more": "(phrase)\nEş anlamlı:\nne haber\nZıt anlamlı:\n—\nÖrnek:\nHow are you today?\nBugün nasılsın?"
+                },
+                {
+                    "front": "nice to meet you",
+                    "back": "`naɪs tə miːt juː`\n**memnun oldum**\ngreeting when introduced",
+                    "more": "(phrase)\nEş anlamlı:\ntanıştığıma sevindim\nZıt anlamlı:\n—\nÖrnek:\nNice to meet you.\nMemnun oldum."
+                },
+                {
+                    "front": "see you later",
+                    "back": "`siː juː ˈleɪtər`\n**görüşürüz**\ninformal goodbye",
+                    "more": "(phrase)\nEş anlamlı:\nsonra görüşürüz\nZıt anlamlı:\n—\nÖrnek:\nSee you later!\nGörüşürüz!"
+                },
+                {
+                    "front": "welcome",
+                    "back": "`ˈwɛlkəm`\n**hoş geldiniz**\ngreeting on arrival",
+                    "more": "(interjection)\nEş anlamlı:\n—\nZıt anlamlı:\nhoşça kal\nÖrnek:\nWelcome to Turkey.\nTürkiye'ye hoş geldiniz."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Yemek ve Restoran",
+            "level": "A2",
+            "topic": "Food",
+            "languageType": "en-US_tr",
+            "questionLanguage": "en-US",
+            "answerLanguage": "tr",
+            "color": "lemon",
+            "image": "food.png",
+            "cards": [
+                {
+                    "front": "restaurant",
+                    "back": "`ˈrɛstərɒnt`\n**restoran**\nplace to eat",
+                    "more": "(noun)\nEş anlamlı:\nlokanta\nZıt anlamlı:\n—\nÖrnek:\nThe restaurant is open.\nRestoran açık."
+                },
+                {
+                    "front": "menu",
+                    "back": "`ˈmɛnjuː`\n**menü**\nlist of food",
+                    "more": "(noun)\nEş anlamlı:\nyemek listesi\nZıt anlamlı:\n—\nÖrnek:\nCan I see the menu?\nMenüyü görebilir miyim?"
+                },
+                {
+                    "front": "breakfast",
+                    "back": "`ˈbrɛkfəst`\n**kahvaltı**\nmorning meal",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nBreakfast is ready.\nKahvaltı hazır."
+                },
+                {
+                    "front": "lunch",
+                    "back": "`lʌntʃ`\n**öğle yemeği**\nmidday meal",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nLet's have lunch.\nÖğle yemeği yiyelim."
+                },
+                {
+                    "front": "dinner",
+                    "back": "`ˈdɪnər`\n**akşam yemeği**\nevening meal",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nDinner is at 7.\nAkşam yemeği 7'de."
+                },
+                {
+                    "front": "waiter",
+                    "back": "`ˈweɪtər`\n**garson**\nperson who serves",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nCall the waiter.\nGarsonu çağır."
+                },
+                {
+                    "front": "bill",
+                    "back": "`bɪl`\n**hesap**\npayment document",
+                    "more": "(noun)\nEş anlamlı:\nfatura\nZıt anlamlı:\n—\nÖrnek:\nThe bill, please.\nHesap, lütfen."
+                },
+                {
+                    "front": "delicious",
+                    "back": "`dɪˈlɪʃəs`\n**lezzetli**\nvery tasty",
+                    "more": "(adjective)\nEş anlamlı:\nnefis\nZıt anlamlı:\ntatsız\nÖrnek:\nThe food is delicious.\nYemek lezzetli."
+                },
+                {
+                    "front": "hungry",
+                    "back": "`ˈhʌŋɡri`\n**aç**\nwanting food",
+                    "more": "(adjective)\nEş anlamlı:\n—\nZıt anlamlı:\ntok\nÖrnek:\nI am hungry.\nAçım."
+                },
+                {
+                    "front": "thirsty",
+                    "back": "`ˈθɜːrsti`\n**susamış**\nwanting drink",
+                    "more": "(adjective)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nI am thirsty.\nSusadım."
+                },
+                {
+                    "front": "water",
+                    "back": "`ˈwɔːtər`\n**su**\nliquid for drinking",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nA glass of water, please.\nBir bardak su, lütfen."
+                },
+                {
+                    "front": "bread",
+                    "back": "`brɛd`\n**ekmek**\nbaked food",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nI want more bread.\nDaha fazla ekmek istiyorum."
+                },
+                {
+                    "front": "meat",
+                    "back": "`miːt`\n**et**\nanimal flesh",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nI don't eat meat.\nEt yemiyorum."
+                },
+                {
+                    "front": "vegetable",
+                    "back": "`ˈvɛdʒtəbəl`\n**sebze**\nplant food",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nEat your vegetables.\nSebzelerini ye."
+                },
+                {
+                    "front": "fruit",
+                    "back": "`fruːt`\n**meyve**\nsweet plant food",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nI like fresh fruit.\nTaze meyve severim."
+                },
+                {
+                    "front": "coffee",
+                    "back": "`ˈkɒfi`\n**kahve**\nhot brown drink",
+                    "more": "(noun)\nEş anlamlı:\n—\nZıt anlamlı:\n—\nÖrnek:\nTurkish coffee is strong.\nTürk kahvesi sert."
+                }
+            ]
+        }
+    ]
+}
